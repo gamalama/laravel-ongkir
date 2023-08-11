@@ -119,6 +119,9 @@
       <excludeFolder url="file://$MODULE_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/vlucas/phpdotenv" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/kavist/rajaongkir" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpunit/php-token-stream" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/scrivo/highlight.php" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
